@@ -1,5 +1,5 @@
-# 🔥🔥 Wooble Social Media App  [![Twitter Follow](https://img.shields.io/twitter/follow/CharlyKeleb.svg?style=social)](https://twitter.com/CharlyKeleb)
-Wooble is a fully functional social media app with multiple features built with flutter and dart.
+#
+Durio is a fully functional social media app with multiple features built with flutter and dart.
 
 Star⭐ the repo if you like what you see😉.
 
@@ -7,10 +7,12 @@ Star⭐ the repo if you like what you see😉.
 * Any Operating System (ie. MacOS X, Linux, Windows)
 * Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
 * A little knowledge of Dart and Flutter
-* A brain to think 🤓🤓
+* A brain to think.
 
 ## Features
- * Custom photo feed 
+ * Custom photo feed
+ * live Streaming with one channel
+  coming soon: on multiple channels
  * Post photo posts from camera or gallery
    * Like posts
    * Comment on posts
@@ -28,17 +30,7 @@ Star⭐ the repo if you like what you see😉.
  * Swipe to delete notification
  * Dark Mode Support
  * Used Provider to manage state
- 
 
-## Screenshots
-<p>
-<img src="ss/w10.jpg" width="400"/> <img src="ss/w11.jpg" width="400"/>
-<img src="ss/w12.jpg" width="400"> <img src="ss/w7.jpg" width="400">
-<img src="ss/w8.jpg" width="400"> <img src="ss/w1.jpg" width="400">
-<img src="ss/w9.jpg" width="400"> <img src="ss/w5.jpg" width="400">
-<img src="ss/w4.jpg" width="400"> <img src="ss/w2.jpg" width="400">
-<img src="ss/w3.jpg" width="400"> <img src="ss/w6.jpg" width="400">
-</p>
 
 
 ## Installation
@@ -83,12 +75,3 @@ Double check install instructions for both
 
 - You can also use my firebase if you wish
 
-# What's Next?
- - [] Animations(liking image)
- - [] Stories['under development]
- - [] Saving posts
- - [] Video Calling ['under development']
-
-
-## 🤓 Author(s)
-**Charly Keleb Charles042** [![Twitter Follow](https://img.shields.io/twitter/follow/Charlykeleb.svg?style=social)](https://twitter.com/Charlykeleb)
